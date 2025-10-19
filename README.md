@@ -4,7 +4,7 @@ This is my **LAB 2 assignment**.
 I designed and implemented a **VR spatial interaction system** in Unity, featuring a floating food menu, interactable food items, and dynamic scaling effects.  
 This lab demonstrates how **UI, input actions, and XR grab interactions** can be combined to create an intuitive and immersive VR experience.
 
-**YouTube link:**[ [[https://studio.youtube.com/video/azXF4TatzTE/edit](https://studio.youtube.com/video/azXF4TatzTE/edit)](https://youtube.com/shorts/azXF4TatzTE)](https://youtube.com/shorts/azXF4TatzTE)
+**YouTube link:**[https://youtube.com/shorts/azXF4TatzTE]
 
 ---
 
